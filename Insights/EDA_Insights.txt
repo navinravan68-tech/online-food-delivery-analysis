@@ -1,0 +1,89 @@
+Online Food Delivery Analysis – Column-wise Insights
+1. Customer Gender
+Insight:
+•	The customer base is almost evenly distributed among Male (24.90%), Female (25.38%), Other (25.01%), and Unknown (24.70%). 
+•	No single gender dominates the platform, indicating a diverse customer base. 
+•	Marketing campaigns can be designed for a broad audience instead of targeting one specific gender. 
+________________________________________
+2. City
+Insight:
+•	Order distribution across Bangalore, Chennai, Delhi, Hyderabad, Mumbai, and Unknown is nearly equal (≈16–17% each). 
+•	Customer demand is well balanced across all operating cities. 
+•	The business is not dependent on a single geographical market, reducing regional business risk. 
+________________________________________
+3. Area
+Insight:
+•	Orders are evenly distributed across North, South, East, West, Central, and Unknown areas. 
+•	No area experiences significantly higher or lower demand. 
+•	Delivery resources appear to be allocated uniformly across service regions. 
+________________________________________
+4. Cuisine Type
+Insight:
+•	Indian cuisine has the highest share (~16.9%), while Italian has the lowest (~16.2%). 
+•	Differences between cuisine preferences are minimal. 
+•	Customer preferences are well diversified, suggesting restaurants from all cuisine categories contribute similarly to platform demand. 
+________________________________________
+5. Cancellation Reason
+Insight:
+•	Nearly 85% of orders are successfully completed (Not Cancelled). 
+•	Among cancelled orders: 
+o	Unknown reason contributes the largest share (~6%). 
+o	Late delivery (~3.1%) is the leading identified operational issue. 
+o	Customer cancellation (~3%) and restaurant issues (~3%) occur at similar rates. 
+•	Reducing delivery delays can further decrease order cancellations. 
+________________________________________
+6. Delivery Rating
+Insight:
+•	Delivery ratings are uniformly distributed between 1 and 5. 
+•	Median rating is approximately 3. 
+•	There are no significant outliers, indicating consistent customer feedback collection. 
+•	Customer satisfaction varies considerably, suggesting opportunities to improve delivery quality. 
+________________________________________
+7. Delivery Time (Minutes)
+Insight:
+•	Delivery times range from approximately 20 to 300 minutes. 
+•	Median delivery time is around 120 minutes. 
+•	The distribution is positively skewed, with many deliveries completed quickly and a smaller number experiencing long delays. 
+•	Long delivery durations highlight opportunities to optimize logistics and routing. 
+________________________________________
+8. Distance (km)
+Insight:
+•	Delivery distances vary between 1 km and 40 km. 
+•	Median delivery distance is approximately 10 km. 
+•	Most orders are delivered within shorter distances, while long-distance deliveries occur less frequently. 
+•	Long-distance orders may require dynamic pricing or optimized rider allocation. 
+________________________________________
+9. Discount Applied
+Insight:
+•	Discounts are concentrated around fixed values (0, 20, 50, 100, and 300). 
+•	The median discount is approximately ₹50. 
+•	A few high discounts (₹300) appear as outliers, indicating promotional campaigns or special offers. 
+•	Most orders receive moderate discounts, helping balance customer acquisition and profitability. 
+________________________________________
+10. Final Amount
+Insight:
+•	Final payable amounts range from ₹0 to ₹5000. 
+•	Median order value is approximately ₹1800. 
+•	Most orders fall within the low-to-mid price range, while premium orders are comparatively fewer. 
+•	Revenue is primarily generated from frequent medium-value transactions rather than expensive individual orders. 
+________________________________________
+11. Delivery Performance
+Insight:
+•	63.02% of orders experienced delayed deliveries. 
+•	32.95% were delivered quickly. 
+•	Only 4.03% achieved average delivery performance. 
+•	Delivery efficiency is the biggest operational challenge for the platform. 
+________________________________________
+12. Average Delivery Time by City
+City	Avg Delivery Time (min)
+Mumbai	15.19
+Unknown	15.17
+Bangalore	15.15
+Hyderabad	14.98
+Delhi	14.84
+Chennai	14.81
+Insight:
+•	Average delivery times differ by less than one minute across cities. 
+•	Operations appear standardized across all service locations. 
+•	City location alone does not significantly impact delivery performance. 
+________________________________________

@@ -1,0 +1,6 @@
+Overall Dataset Insight
+•	Customer demand is evenly distributed across cities, areas, genders, and cuisine types, indicating a balanced and unbiased dataset. 
+•	Around 85% of orders are completed successfully, reflecting good operational reliability. 
+•	Delivery delays remain the primary operational concern, with 63% of deliveries classified as delayed. 
+•	Most customers place medium-value orders, receive moderate discounts, and order from restaurants located within 10 km. 
+•	The business has opportunities to improve customer satisfaction by reducing long delivery times and minimizing delay-related cancellations.
